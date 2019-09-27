@@ -61,7 +61,7 @@ export default class User extends Component {
     );
 
     this.setState({
-      stars: stars.concat(response.data),
+      stars: [...stars, ...response.data], // stars.concat(response.data),
       currentPage: currentPage + 1,
     });
   };
