@@ -56,7 +56,7 @@ $ react-native run-android
 
 ---
 
-💻 Made by Rafael Del Grossi [Get in touch!](www.linkedin.com/in/rafael-del-grossi-b9063831)
+💻 Made by Rafael Del Grossi 💬 [Get in touch!](www.linkedin.com/in/rafael-del-grossi-b9063831)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
